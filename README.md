@@ -1,1 +1,1 @@
-HexConvLSTM - Readme is in process..
+HexConvLSTM - Readme is work in progress..
